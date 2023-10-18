@@ -1,8 +1,8 @@
 Red
 Orange
-Blue
-Pink
+Yellow
 Green
-Violet
+Blue
 Indigo
+Violet
 These are the colours of the rainbow.
