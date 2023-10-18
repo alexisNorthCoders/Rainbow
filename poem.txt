@@ -3,6 +3,8 @@ Orange
 Yellow
 Green
 Blue
+Unicorn
 Indigo
 Violet
 These are the colours of the rainbow.
+And the UNICORN!
