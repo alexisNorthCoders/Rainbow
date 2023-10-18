@@ -1,11 +1,9 @@
-Unicorn number one
+Unicorn one
 Red
 Orange
-Unicorn number two
 Yellow
 Green
 Blue
-Unicorn number three
 Indigo
 Violet
 These are the colours of the rainbow.
